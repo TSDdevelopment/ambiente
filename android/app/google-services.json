@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381985745005",
+    "project_id": "ambiente-u57z4s",
+    "storage_bucket": "ambiente-u57z4s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381985745005:android:974bb24e0b61b3becbf764",
+        "android_client_info": {
+          "package_name": "com.mycompany.ambiente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASDD8wz_tvUWD-4bWJNSVarHI_1NzqYiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
